@@ -14,6 +14,7 @@ class MainActivity : AppCompatActivity() {
 
     val boton1 = findViewById<View>(R.id.boton1) as Button
 
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
